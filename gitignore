@@ -1,0 +1,6 @@
+.*
+*.o
+a.out
+replit.nix
+main-debug
+main
